@@ -1,0 +1,2 @@
+type=command
+command=sh /opt/lagou/servers/azkaban/loaddata.sh

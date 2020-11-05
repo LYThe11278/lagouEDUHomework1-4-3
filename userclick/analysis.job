@@ -1,0 +1,3 @@
+type=command
+dependencies=loaddata
+command=sh /opt/lagou/servers/azkaban/analyies.sh
